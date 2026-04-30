@@ -20,7 +20,7 @@ const CONTACT_LINKS = [
     {
         label: 'LinkedIn',
         value: 'linkedin.com/in/asadullah-shahbaz',
-        href: 'www.linkedin.com/in/asadullah-shahbaz',
+        href: 'https://www.linkedin.com/in/asadullah-shahbaz',
         icon: Linkedin,
         color: '#0A66C2',
     },
